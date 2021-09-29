@@ -8,10 +8,10 @@ body {
 .product {
   background: #fff;
   box-shadow: 0 0 2px #ddd;
-  padding: 20px;
+  padding: 10px;
   text-align: center;
   cursor: pointer;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 .product:hover {
   box-shadow: 0 0 8px #ddd;
@@ -21,7 +21,7 @@ body {
   height: 300px;
 }
 .product-text {
-  margin-top: 100px;
+  margin-top: 20px;
 }
 .product-text h3 {
   margin-top: 10px;
